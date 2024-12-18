@@ -11,8 +11,8 @@ This project is a World Map Viewer that displays a world map with dynamic backgr
 - HTML
 - CSS
 - JavaScript
-- Leaflet.js (for map rendering)
-- OpenStreetMap (for map tiles)
+- [Leaflet.js](https://leafletjs.com/) for map rendering
+- [OpenStreetMap](https://www.openstreetmap.org/) for map tiles
 
 ## Installation
 
