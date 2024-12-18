@@ -1,6 +1,6 @@
 # World Map Viewer
 
-This project is a World Map Viewer that displays a world map with dynamic background color changes and particle animations for visual enhancement.
+This project is a World Map Viewer that displays a world map.
 
 ## Features
 
